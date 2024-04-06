@@ -1,2 +1,2 @@
-# MNIST-Num-Recog
+# MNIST
 MNIST Number Recognization AI
